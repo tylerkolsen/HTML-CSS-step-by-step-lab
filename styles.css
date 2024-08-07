@@ -36,3 +36,24 @@ td.price {
     text-align: end;
 }
 
+.form-group {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+}
+
+label.inline-label {
+    display: inline;
+}
+
+textarea {
+    width: 100%;
+    min-height: 100px;
+}
+
+#container {
+    max-width: 800px;
+    margin:auto;
+}
