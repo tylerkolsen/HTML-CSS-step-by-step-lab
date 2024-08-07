@@ -1,3 +1,38 @@
 body {
     font-family: system-ui, sans-serif;
+    background: #d1ffcc;
 }
+
+.lead {
+    font-size: 1.5em;
+    font-weight: 300;
+}
+
+section {
+    background: white;
+    padding: 20px;
+    margin: 10px 0;
+}
+
+section h2 {
+    margin-top: 0;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th {
+    text-align: start;
+    border-bottom: 1px solid black;  
+}
+
+th,
+td {
+    padding: 5px 10px;
+}
+
+td.price {
+    text-align: end;
+}
+
